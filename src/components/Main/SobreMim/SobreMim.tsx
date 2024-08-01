@@ -22,9 +22,9 @@ export default function SobreMim() {
             👋 Oi! Me chamo Matheus Chimendes.{" "}
           </a>
           <br />
-          👨🏻‍💻 Sou um profissional dedicado, com forte espírito de equipe, sempre
-          em busca de soluções ágeis e novas oportunidades para contribuir com o
-          crescimento da empresa.
+          👨🏻‍💻 Sou um profissional dedicado, com forte espírito de equipe, sempre em busca de soluções ágeis e novas oportunidades para contribuir com o crescimento da empresa. 
+          Tenho uma abordagem proativa e estou constantemente aprimorando minhas habilidades para me manter atualizado com as melhores práticas do mercado. 
+          
         </p>
       </div>
     </section>

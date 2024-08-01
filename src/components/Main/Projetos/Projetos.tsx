@@ -79,7 +79,7 @@ export default function Projetos() {
                   aria-label="636 stars on GitHub (opens in a new tab)"
                   href=""
                 >
-                  <svg
+                  {/* <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
@@ -92,7 +92,7 @@ export default function Projetos() {
                       clip-rule="evenodd"
                     ></path>
                   </svg>
-                  <span>636</span>
+                  <span>636</span> */}
                 </a>
                 <ul className="mt-2 flex flex-wrap">
                   <li className="mr-1.5 mt-2">
@@ -179,7 +179,7 @@ export default function Projetos() {
                   aria-label="636 stars on GitHub (opens in a new tab)"
                   href=""
                 >
-                  <svg
+                  {/* <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
@@ -192,7 +192,7 @@ export default function Projetos() {
                       clip-rule="evenodd"
                     ></path>
                   </svg>
-                  <span>636</span>
+                  <span>636</span> */}
                 </a>
                 <ul className="mt-2 flex flex-wrap">
                   <li className="mr-1.5 mt-2">
@@ -274,7 +274,7 @@ export default function Projetos() {
                   aria-label="636 stars on GitHub (opens in a new tab)"
                   href=""
                 >
-                  <svg
+                  {/* <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
@@ -287,7 +287,7 @@ export default function Projetos() {
                       clip-rule="evenodd"
                     ></path>
                   </svg>
-                  <span>636</span>
+                  <span>636</span> */}
                 </a>
                 <ul className="mt-2 flex flex-wrap">
                   <li className="mr-1.5 mt-2">
@@ -370,7 +370,7 @@ export default function Projetos() {
                   aria-label="636 stars on GitHub (opens in a new tab)"
                   href=""
                 >
-                  <svg
+                  {/* <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
@@ -383,7 +383,7 @@ export default function Projetos() {
                       clip-rule="evenodd"
                     ></path>
                   </svg>
-                  <span>636</span>
+                  <span>636</span> */}
                 </a>
                 <ul className="mt-2 flex flex-wrap">
                   <li className="mr-1.5 mt-2">
@@ -468,7 +468,7 @@ export default function Projetos() {
                   aria-label="636 stars on GitHub (opens in a new tab)"
                   href=""
                 >
-                  <svg
+                  {/* <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
@@ -481,7 +481,7 @@ export default function Projetos() {
                       clip-rule="evenodd"
                     ></path>
                   </svg>
-                  <span>636</span>
+                  <span>636</span> */}
                 </a>
                 <ul className="mt-2 flex flex-wrap">
                   <li className="mr-1.5 mt-2">

@@ -11,7 +11,7 @@ export default function SideBar() {
             <a href="/">Matheus Chimendes</a>
           </h1>
           <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
-            Frontend
+            Front-end web development
           </h2>
           <p className="mt-4 max-w-xs leading-normal">
             Construo experiências digitais perfeitas, envolventes e acessíveis.

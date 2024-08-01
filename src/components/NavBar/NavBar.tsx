@@ -14,7 +14,7 @@ export default function NavBar(){
                         group-focus-visible:text-slate-200">Sobre mim</span>
                     </a>
                 </li>
-                <li>
+                {/* <li>
                     <a className="group flex items-center py-3 active" href="#experiencia">
                         <span className="nav-indicator mr-4 h-px w-8 
                         bg-slate-600 transition-all  group-hover:w-16
@@ -25,7 +25,7 @@ export default function NavBar(){
                         text-slate-500 group-hover:text-slate-200 
                         group-focus-visible:text-slate-200 ">Experiencias</span>
                     </a>
-                </li>
+                </li> */}
                 <li>
                     <a className="group flex items-center py-3 active" href="#projetos">
                         <span className="nav-indicator mr-4 h-px w-8 

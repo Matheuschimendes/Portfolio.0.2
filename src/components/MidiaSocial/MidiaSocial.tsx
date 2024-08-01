@@ -4,7 +4,7 @@ export default function MidiaSocial() {
       <li className="mr-5 text-sm shrink-0">
         <a 
           className="block hover:text-slate-200" 
-          href=""
+          href="https://github.com/Matheuschimendes"
           target="_blank"
           rel="noreferre noopener"
           aria-label="GitHub"
@@ -25,7 +25,7 @@ export default function MidiaSocial() {
       <li className="mr-5 text-sm shrink-0">
         <a 
           className="block hover:text-slate-200" 
-          href=""
+          href="https://www.linkedin.com/in/matheus-chimendes/"
           target="_blank"
           rel="noreferre noopener"
           aria-label="Linkdin"
@@ -46,7 +46,7 @@ export default function MidiaSocial() {
       <li className="mr-5 text-sm shrink-0">
         <a 
           className="block hover:text-slate-200" 
-          href=""
+          href="https://www.instagram.com/matheuschiimendes/"
           target="_blank"
           rel="noreferre noopener"
           aria-label="Instagram"

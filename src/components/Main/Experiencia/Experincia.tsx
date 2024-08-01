@@ -195,9 +195,9 @@ export default function Experincia() {
             aria-label=""
             >
               <span>
-                View Full{" "}
+              Ver todos os {" "}
                 <span className="inline-block">
-                  REsumé
+                  trabalhos
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"

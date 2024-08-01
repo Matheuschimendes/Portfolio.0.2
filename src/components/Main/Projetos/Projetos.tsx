@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 import image from "@/assets/image.png";
-import Contato from "@/assets/Contato.png";
+import Agenda from "@/assets/Agenda.png";
 import Movie from "@/assets/movie.png";
 import Lista from "@/assets/lista.png";
 import Pokedex from "@/assets/Pokedex.png";
@@ -123,7 +123,7 @@ export default function Projetos() {
                 width="200"
                 height="48"
                 className="rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1"
-                src={Contato}
+                src={Agenda}
               />
             </div>
           </li>
